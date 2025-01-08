@@ -6,7 +6,7 @@ Usage: [usage/legacyfullnode_usage.md](./usage/legacyfullnode_usage.md)
 
 ### Mainnet (monthly update)
 
-Full Snapshot: [mainnet-now-20250108](dist/mainnet_now_20250108.tar.gz)
+Full Snapshot: [mainnet-now-20250108](dist/mainnet_now_20250108.csv)
 
 ## FAQ
 
